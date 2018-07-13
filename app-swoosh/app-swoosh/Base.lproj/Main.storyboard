@@ -23,7 +23,7 @@
                                 <rect key="frame" x="-0.66666666666665719" y="0.0" width="414.66666666666663" height="736"/>
                             </imageView>
                             <imageView userInteractionEnabled="NO" contentMode="scaleAspectFit" horizontalHuggingPriority="251" verticalHuggingPriority="251" image="swooshLogo" translatesAutoresizingMaskIntoConstraints="NO" id="UPb-9B-zBe">
-                                <rect key="frame" x="147.66666666666666" y="40" width="118.99999999999997" height="20"/>
+                                <rect key="frame" x="148" y="40" width="119" height="20"/>
                             </imageView>
                             <button contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="CPk-JY-cAp" customClass="BorderButton" customModule="app_swoosh" customModuleProvider="target">
                                 <rect key="frame" x="20" y="666" width="374" height="50"/>
@@ -116,10 +116,10 @@
                                 </subviews>
                             </stackView>
                             <stackView opaque="NO" contentMode="scaleToFill" axis="vertical" spacing="27" translatesAutoresizingMaskIntoConstraints="NO" id="rn2-t1-qH1">
-                                <rect key="frame" x="20" y="227" width="374" height="204"/>
+                                <rect key="frame" x="19.666666666666657" y="227" width="374.33333333333337" height="204"/>
                                 <subviews>
                                     <button contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="gM2-GK-Frz" customClass="BorderButton" customModule="app_swoosh" customModuleProvider="target">
-                                        <rect key="frame" x="0.0" y="0.0" width="374" height="50"/>
+                                        <rect key="frame" x="0.0" y="0.0" width="374.33333333333331" height="50"/>
                                         <color key="backgroundColor" white="0.0" alpha="0.4121361301" colorSpace="calibratedWhite"/>
                                         <constraints>
                                             <constraint firstAttribute="height" constant="50" id="fph-3B-5Y2"/>
@@ -134,7 +134,7 @@
                                         </connections>
                                     </button>
                                     <button contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="Wx1-cU-PfE" customClass="BorderButton" customModule="app_swoosh" customModuleProvider="target">
-                                        <rect key="frame" x="0.0" y="77" width="374" height="50"/>
+                                        <rect key="frame" x="0.0" y="77" width="374.33333333333331" height="50"/>
                                         <color key="backgroundColor" white="0.0" alpha="0.4121361301" colorSpace="calibratedWhite"/>
                                         <constraints>
                                             <constraint firstAttribute="height" constant="50" id="Rts-qO-Cvc"/>
@@ -149,7 +149,7 @@
                                         </connections>
                                     </button>
                                     <button contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="C65-U5-6fU" customClass="BorderButton" customModule="app_swoosh" customModuleProvider="target">
-                                        <rect key="frame" x="0.0" y="154" width="374" height="50"/>
+                                        <rect key="frame" x="0.0" y="154" width="374.33333333333331" height="50"/>
                                         <color key="backgroundColor" white="0.0" alpha="0.4121361301" colorSpace="calibratedWhite"/>
                                         <constraints>
                                             <constraint firstAttribute="height" constant="50" id="y05-wo-FaW"/>
@@ -166,7 +166,7 @@
                                 </subviews>
                             </stackView>
                             <button contentMode="scaleToFill" enabled="NO" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="aEY-Hu-cgL" customClass="BorderButton" customModule="app_swoosh" customModuleProvider="target">
-                                <rect key="frame" x="20" y="666" width="374" height="50"/>
+                                <rect key="frame" x="19.666666666666657" y="666" width="374.33333333333337" height="50"/>
                                 <color key="backgroundColor" white="0.0" alpha="0.4121361301" colorSpace="calibratedWhite"/>
                                 <constraints>
                                     <constraint firstAttribute="height" constant="50" id="Ea8-ze-Snc"/>
@@ -235,7 +235,7 @@
                                 <rect key="frame" x="0.0" y="0.0" width="414" height="736"/>
                             </imageView>
                             <stackView opaque="NO" contentMode="scaleToFill" distribution="fillEqually" spacing="27" translatesAutoresizingMaskIntoConstraints="NO" id="GKs-eY-U65">
-                                <rect key="frame" x="20" y="227" width="374" height="50"/>
+                                <rect key="frame" x="19.666666666666657" y="227" width="374.33333333333337" height="50"/>
                                 <subviews>
                                     <button contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="cnr-M3-ur8" customClass="BorderButton" customModule="app_swoosh" customModuleProvider="target">
                                         <rect key="frame" x="0.0" y="0.0" width="173.66666666666666" height="50"/>
@@ -250,7 +250,7 @@
                                         </state>
                                     </button>
                                     <button contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="aWV-mU-5IK" customClass="BorderButton" customModule="app_swoosh" customModuleProvider="target">
-                                        <rect key="frame" x="200.66666666666663" y="0.0" width="173.33333333333337" height="50"/>
+                                        <rect key="frame" x="200.66666666666669" y="0.0" width="173.66666666666669" height="50"/>
                                         <color key="backgroundColor" white="0.0" alpha="0.4121361301" colorSpace="calibratedWhite"/>
                                         <constraints>
                                             <constraint firstAttribute="height" constant="50" id="Qk6-GB-TZk"/>
@@ -286,7 +286,7 @@
                                 <state key="normal" image="backButton"/>
                             </button>
                             <button contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="mWB-RQ-QXr" customClass="BorderButton" customModule="app_swoosh" customModuleProvider="target">
-                                <rect key="frame" x="20" y="666" width="374" height="50"/>
+                                <rect key="frame" x="19.666666666666657" y="666" width="374.33333333333337" height="50"/>
                                 <color key="backgroundColor" white="0.0" alpha="0.4121361301" colorSpace="calibratedWhite"/>
                                 <constraints>
                                     <constraint firstAttribute="height" constant="50" id="LeM-IW-uKe"/>
